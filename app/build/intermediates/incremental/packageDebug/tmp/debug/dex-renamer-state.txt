@@ -1,4 +1,4 @@
-#Sun Mar 21 10:18:08 ICT 2021
+#Sun Mar 21 10:29:19 ICT 2021
 base.0=E\:\\dimensi lain\\Semester 4\\Mobpro\\Minggu 6\\DessertClicker-Starter\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
